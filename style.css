@@ -3,6 +3,25 @@ body {
 }
 
 header {
+    background-color: blue;
     text-align: center;
+
 }
 
+#left {
+    background-color: red;
+
+}
+
+main {
+    background-color: green;
+    
+}
+
+#right {
+    background-color: red;
+}
+
+footer {
+    background-color: blue;
+}
